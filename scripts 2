@@ -1,4 +1,3 @@
 #!/bin/bash
 # Script de configuração do HDFS
 echo "Configurando o HDFS..."
-# comandos de configuração do HDFS aqui
