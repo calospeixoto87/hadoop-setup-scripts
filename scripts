@@ -1,2 +1,4 @@
-install-hadoop.sh
-setup-hdfs.sh
+#!/bin/bash
+# Script de instalação do Hadoop
+echo "Iniciando a instalação do Hadoop..."
+# comandos de instalação do Hadoop aqui
